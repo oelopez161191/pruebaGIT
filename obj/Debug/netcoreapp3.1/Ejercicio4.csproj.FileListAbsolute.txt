@@ -1,0 +1,51 @@
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+D:\Documentos OELS\Ejercicio6\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+D:\Documentos OELS\Ejercicio6\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache
+D:\Documentos OELS\EjerciciosCSharp\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csprojAssemblyReference.cache
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csprojAssemblyReference.cache
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+H:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csprojAssemblyReference.cache
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+I:\EjerciciosCSharp Oscar López 200744\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache

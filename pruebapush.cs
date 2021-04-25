@@ -6,5 +6,7 @@ namespace Ejercicio4
 {
     class pruebapush
     {
+
+        int codigo = 0;
     }
 }
